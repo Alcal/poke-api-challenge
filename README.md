@@ -1,4 +1,4 @@
-The goal of this repository is to have the developer add simple calls to the [PokeApi](https://pokeapi.co/docs/v2.html#pokemon) to make the app dynamic
+The goal of this repository is to have the developer add simple calls to the [PokeApi](https://pokeapi.co/docs/v2#pokemon) to make the app dynamic
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
